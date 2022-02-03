@@ -1,6 +1,5 @@
 # poc-set
-`poc-set` 集合了本人使用过的漏洞的 `poc&exp`
+`poc-set` A collection of vulnerabilities `poc&exp`
 
-
-## 免责申明
-此内容仅供学习交流使用，不用于非法用途。
+## Disclaimer
+This content is only for learning and communication, not for illegal purposes.
